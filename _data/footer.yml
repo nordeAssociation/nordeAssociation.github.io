@@ -1,0 +1,19 @@
+# Footer navigation links
+
+# Footer navigation links
+
+- title: Home
+  url: /
+
+- title: About Us
+  url: /about-us/
+
+- title: Activities
+  url: /activities/
+
+- title: Publications
+  url: /publications/
+
+- title: Members
+  url: /people/
+  

@@ -1,0 +1,27 @@
+# Site navigation links
+
+- title: Home
+  url: /
+  excerpt: "Starting page"
+  image: index-400-250.gif
+  
+- title: About Us
+  url: /about-us/
+  excerpt: "What we are - our mission"
+  image: about-400-250.gif
+  
+- title: Activities
+  url: /activities/
+  excerpt: "Our latest activites"
+  image: posts-400-250.gif
+  
+#- title: Publications
+#  url: /publications/
+#  excerpt: "Our lates publications"
+#  image: posts-400-250.gif
+
+- title: Members
+  url: /people/
+  excerpt: "Who we are in person"
+  image: people-400-250.gif
+
