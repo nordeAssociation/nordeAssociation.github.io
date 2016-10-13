@@ -13,7 +13,7 @@ image:
 ---
 
 <figure class="half">
-	<a href="http://localhost:4000/images/eduard_bukin_400-250.jpg"><img src="http://localhost:4000/images/eduard_bukin_400-250.jpg"></a>
+	<a href="/images/eduard_bukin_400-250.jpg"><img src="/images/eduard_bukin_400-250.jpg"></a>
 </figure>
 
 # Biography outline 
